@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @polquant
 - 👀 I’m interested in Artificial Intelligence / Machine Learning, Science and Philosophy.
-- 🌱 I’m currently learning advenced usage of TensorFlow
+- 🌱 I’m learning all the time ;)
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ...
+- 📫 https://www.linkedin.com/in/grzegorzgoryl/
 
 <!---
 polquant/polquant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
